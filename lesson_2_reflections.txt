@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+-> .git folder is creared 
+-> .git folder will contain metadata (version history) of you files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-> its like a temporal place holder
+-> allows you to manage the way you make versions since you can do many changes but commit one bit at a time.
